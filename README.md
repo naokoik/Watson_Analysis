@@ -1,4 +1,4 @@
-# Watson_Analysis
+# Watson Analytics
 
 https://www.youtube.com/watch?v=0Jmg6vRr8G4
 
