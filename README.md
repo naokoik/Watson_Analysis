@@ -16,3 +16,6 @@ American Time Use Survey：
 https://community.watsonanalytics.com/wp-content/uploads/2015/04/WA_American-Time-Use-Survey.csv
 
 ２３項目、１３万人分のデータ
+
+Watson Analytics入り口：
+https://www.ibm.com/analytics/watson-analytics/
