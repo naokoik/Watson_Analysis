@@ -12,10 +12,16 @@ https://www.youtube.com/watch?v=fI2J3iY4Jus
 Guide to Sample Data Sets：
 https://www.ibm.com/communities/analytics/watson-analytics-blog/guide-to-sample-datasets/
 
-American Time Use Survey：
+
+American Time Use Survey：（２３項目、１３万人分のデータ）
 https://community.watsonanalytics.com/wp-content/uploads/2015/04/WA_American-Time-Use-Survey.csv
 
-２３項目、１３万人分のデータ
+データの説明：
+http://www.bls.gov/tus/#data
+
+User's guide：
+http://www.bls.gov/tus/atususersguide.pdf
+
 
 Watson Analytics入り口：
 https://www.ibm.com/analytics/watson-analytics/
