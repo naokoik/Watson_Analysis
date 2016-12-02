@@ -26,5 +26,8 @@ http://www.bls.gov/tus/atususersguide.pdf
 Watson Analytics入り口：
 https://www.ibm.com/analytics/watson-analytics/
 
+Watson Analytics保守スケジュール
+https://community.watsonanalytics.com/discussions/questions/1441/sticky-watson-analytics-maintenance-schedule.html
+
 Big Data University Watson Analytics 101: 
 https://bigdatauniversity.com/courses/introduction-watson-analytics/
