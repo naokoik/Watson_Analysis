@@ -15,5 +15,4 @@ https://community.watsonanalytics.com/discussions/questions/1441/sticky-watson-a
 https://bigdatauniversity.com/courses/introduction-watson-analytics/
 
 このページのURL
-
 ibm.biz/Bd45vf
