@@ -1,6 +1,7 @@
 # Watson Analytics
 
 学習用ビデオ
+http://www-01.ibm.com/software/jp/cmp/watsonanalytics/
 
 ハンズオンで使用するサンプルデータの説明 Guide to Sample Data Sets：
 https://www.ibm.com/communities/analytics/watson-analytics-blog/guide-to-sample-datasets/
